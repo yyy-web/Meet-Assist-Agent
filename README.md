@@ -120,8 +120,6 @@ TalentTalk/
 
 ## 🔒 安全提示
 
-- ⚠️ **切勿**将 `.env` 文件提交到版本控制系统
-- ⚠️ **切勿**在代码中硬编码 API 密钥
 - ✅ 使用 `.env.example` 作为密钥配置模板
 - ✅ 定期轮换 API 密钥
 
@@ -129,6 +127,6 @@ TalentTalk/
 
 MIT License
 
-## 🤝 贡献
+## 🤝 参考
 
-欢迎提交 Issue 和 Pull Request！
+https://github.com/M-Mowina/TalentTalk---AI-powered-interview-system
